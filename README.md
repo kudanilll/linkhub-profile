@@ -53,7 +53,28 @@ npm install
 npm run dev
 ```
 
-5. Open your browser and visit `http://localhost:5173`
+5. Setup your profile
+
+Enter the style data you want, your social media url in `config.ts`
+
+```typescript
+screen: {
+  style: "lamp", // "beam" | "lamp" (default)
+},
+profile: {
+  name: "Achmad Daniel",
+  list_social_media: [
+    {
+      title: "Instagram",
+      description: "username",
+      url: "url profile",
+      img: "icon",
+    },
+}
+
+```
+
+6. Open your browser and visit `http://localhost:5173`
 
 ## 🚧 Project Structure
 
@@ -64,6 +85,7 @@ linkhub/
 │   ├── lib/
 │   ├── sections/
 │   ├── App.tsx
+│   ├── config.ts
 │   └── main.tsx
 ├── public/
 ├── index.html
