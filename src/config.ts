@@ -14,7 +14,7 @@ export const config = {
       {
         title: "Facebook",
         description: "Achmad Daniel Syahputra",
-        url: "",
+        url: "https://www.facebook.com/profile.php?id=100074030298113&mibextid=ZbWKwL",
         img: "https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000",
       },
       {
