@@ -19,8 +19,8 @@ export const config = {
       },
       {
         title: "Github",
-        description: "achmaddaniel24 (kudanill.)",
-        url: "https://github.com/achmaddaniel24",
+        description: "kudanilll",
+        url: "https://github.com/kudanilll",
         img: "https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=ffffff",
       },
       {

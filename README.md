@@ -32,7 +32,7 @@ LinkHub is a sleek, minimalist web application designed to centralize and stream
 1. Clone the repository
 
 ```bash
-https://github.com/achmaddaniel24/linkhub-profile.git linkhub
+https://github.com/kudanilll/linkhub-profile.git linkhub
 ```
 
 2. Navigate to the project directory
@@ -106,7 +106,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 **Achmad Daniel**
 
-- GitHub: [@achmaddaniel24](https://github.com/achmaddaniel24)
+- GitHub: [@kudanilll](https://github.com/kudanilll)
 
 ## 🌟 Show your support
 
